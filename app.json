@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ddbe08df-5356-46c9-a7ac-df37003c4301"
+      }
+    },
+    "owner": "omarahmed8k"
   }
 }
